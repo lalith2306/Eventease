@@ -1,0 +1,32 @@
+.attendee-list {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .attendee-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .attendee-list li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .attendee-list button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .attendee-list button:hover {
+    background-color: #a71d2a;
+  }
+  

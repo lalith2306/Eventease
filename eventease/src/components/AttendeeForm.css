@@ -1,0 +1,25 @@
+.attendee-form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .attendee-form input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .attendee-form button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .attendee-form button:hover {
+    background-color: #0056b3;
+  }
+  
